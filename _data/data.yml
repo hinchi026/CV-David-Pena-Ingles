@@ -32,11 +32,11 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Spanish
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: Professional - B2
 
         - idiom: Spanish
           level: Professional
@@ -44,13 +44,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Soccer
           link:
 
-        - item: Snowboarding
+        - item: Travel
           link:
 
-        - item: Cooking
+        - item: Studying
           link:
 
 career-profile:
