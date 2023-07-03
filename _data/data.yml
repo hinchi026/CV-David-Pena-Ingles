@@ -252,15 +252,14 @@ projects:
         strengthening security policies, and providing training to staff on 
         cybersecurity best practices.
         "
-    intro: >
-      These projects have strengthened my expertise in information security and  
-      with a solid track record of successfully completing projects in this area.
-      related to data protection, cyberattack prevention, and risk management.
 
-      I have applied my knowledge of information security and cybersecurity in various 
-      contexts and industry sectors. My primary focus has been ensuring the integrity,
-      confidentiality, and availability of information assets, as well as mitigating risks
-      associated with cyber threats.
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions
