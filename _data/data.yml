@@ -175,7 +175,7 @@ experiences:
         time: 2015 - Present
         company: Senior Security Engineer and Instructor 
 
-      - role: Fondo de Prestaciones Económicas, Cesantías y Pensiones - Bogota
+      - role: Fondo de Prestaciones Económicas, Cesantías y Pensiones
         time: 2021 - 2022
         company: Senior CiberSecurity Engineer 
 
@@ -218,9 +218,16 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I am a passionate professional in the field of information security and cybersecurity, 
+      with a solid track record of successfully completing projects in this area.
+      related to data protection, cyberattack prevention, and risk management.
+
+      I have applied my knowledge of information security and cybersecurity in various 
+      contexts and industry sectors. My primary focus has been ensuring the integrity,
+      confidentiality, and availability of information assets, as well as mitigating risks
+      associated with cyber threats.
+
+      Some of the notable projects I have been involved in include:
     assignments:
       - title: Velocity
         link: "#hook"
