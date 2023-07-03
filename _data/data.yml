@@ -308,8 +308,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Juniper Netowork
+      - name: Juniper Security
         level: 98%
+
+      - name: Juniper Network
+        level: 98%        
 
       - name: Radware
         level: 70%
