@@ -253,13 +253,15 @@ projects:
         cybersecurity best practices.
         "
 
-      - title: Atom
+      - title: 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "These projects have strengthened my expertise in information security and 
+        cybersecurity, and I have gained solid skills in risk identification, security control 
+        implementation, incident response, and cybersecurity awareness.
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        As a dedicated professional in information security, I continuously update my 
+        knowledge and seek opportunities to further grow in this dynamic and ever-evolving field. 
+        "
 
 oss:
     title: OSS Contributions
