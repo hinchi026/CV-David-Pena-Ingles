@@ -229,10 +229,13 @@ projects:
 
       Some of the notable projects I have been involved in include:
     assignments:
-      - title: Velocity
+      - title: 1
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
+        tagline: "1.	Implementation of an information security framework based on ISO 27001 
+        for a leading company in the financial sector. This involved risk assessment,
+        designing security controls, developing policies and procedures, and
+        conducting internal audits to ensure compliance with security standards.
+        "
       - title: DevStudio
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
